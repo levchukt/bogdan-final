@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Toyota Camry",
+        "price": 14000,
+        "image": "car.jpg",
+        "description": "Кольори:gray, white, ",
+        "type": "sedan"
+    },
+    {
+        "title": "Toyota Land Cruser",
+        "price": 31446,
+        "image": "cruiser.jpg",
+        "description": "black",
+        "type": "crossover"
+    },
+    {
+        "title": "Toyota Yaris",
+        "price": 15500,
+        "image": "yaris.jpg",
+        "description": "кольори:red, black",
+        "type":"hatchback"
+    },
+    {
+        "title": "Porsche 911",
+        "price": 108000,
+        "image": "porshe 911.jpg",
+        "description": "кольори: white, black",
+        "type": "coupe"
+    },
+    {
+        "title": "porsche cayenne suv",
+        "price": 109000,
+        "image": "porshe cayenne suv.jpg",
+        "description": "кольори: black",
+        "type": "hatchback"
+
+    },
+    {
+        "title": "porsche cayman",
+        "price": 72800,
+        "image": "porshe cayman.jpg",
+        "description": "кольори : gray",
+        "type":"coupe"
+    },
+    {
+        "title": "BMW m5 f90",
+        "price": 68000,
+        "image": "M5F90.jpg",
+        "description": "кольори : gray",
+        "type":"sedan"
+    },
+    {
+        "title": "MB e63",
+        "price": 76000,
+        "image": "e63.jpg",
+        "description": "кольори : white",
+        "type":"sedan"
+    }
+]
